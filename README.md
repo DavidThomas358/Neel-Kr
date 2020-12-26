@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😎, I'm Neel Kumar</h1>
 <h3 align="center">Passionate about learning and developing new things in the programming world!!!</h3>
 <br />
-![github-profile-page] (https://user-images.githubusercontent.com/75318831/103147715-075e3d00-477e-11eb-8cc3-e9d3a95b9540.png)
+![github-profile](https://user-images.githubusercontent.com/75318831/103147928-f1517c00-477f-11eb-9ead-af1cff2e6e64.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel-kr" alt="neel-kr" /></a> </p>
