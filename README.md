@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel-kr" alt="neel-kr" /></a> </p>
 
-- 😅 I'm currently working on **PyMessage-Bot**
+- 😅 I'm currently working on **numpy, GUI using Tkinter, OpenCV, and building programs with various modules**
 
 - 🌿 I’m currently learning **Python (PyTorch, OpenCV and making programs with interesting modules.)**
 
