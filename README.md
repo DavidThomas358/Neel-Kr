@@ -9,8 +9,9 @@
 <img src="https://user-images.githubusercontent.com/75318831/104148829-cb6fdc80-53f9-11eb-962c-8fd276cb4d7d.png" alt="octocat" width="70" height="70">
 <img src="https://user-images.githubusercontent.com/75318831/104148871-0c67f100-53fa-11eb-940f-3d8f6ff0d1f5.png" alt="octocat" width="70" height="70">
 </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/75318831/104157391-10533d80-5411-11eb-9a90-558c0d67dac5.png" alt="neel kr"></p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/75318831/104155370-121b0200-540d-11eb-94a2-94d1b0be7949.png" alt="neel-kr" /> </p>
+
 <img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" />
 
 - 😅 I'm currently working on **numpy, GUI using Tkinter, OpenCV, and building programs with various modules**
