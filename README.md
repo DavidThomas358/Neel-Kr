@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/75318831/104149254-8a78c780-53fb-11eb-9377-0428e72fa613.png" alt="neel-kr" /> </p>
 <img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" />
 
-<p> <img src="https://user-images.githubusercontent.com/75318831/104149580-b5afe680-53fc-11eb-89e0-df749e756e95.png" alt="busy" width="100" height="100"> I'm currently working on <b>numpy, GUI using Tkinter, OpenCV, and building programs with various modules</b> </p>
+- 😅 I'm currently working on **numpy, GUI using Tkinter, OpenCV, and building programs with various modules**
 
 - 🌿 I’m currently learning **Python (PyTorch, OpenCV and making programs with interesting modules.)**
 
