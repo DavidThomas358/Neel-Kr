@@ -1,11 +1,19 @@
-<h1 align="center">Hi 😎, I'm Neel Kumar</h1>
+<h1 align="center">Hi, I'm Neel Kumar <img src="https://user-images.githubusercontent.com/75318831/104148116-f1e04880-53f6-11eb-92b8-11c63ce10403.png" alt="emoji" width="40" height="40"> </h1>
 <h3 align="center">Passionate about learning and developing new things in the programming world!!!</h3>
-<p align="centre"> <img src="https://user-images.githubusercontent.com/75318831/103148098-2363dd80-4782-11eb-848e-7bfb93ddd863.png" alt="neel-kr" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/75318831/104148329-d9246280-53f7-11eb-8fed-b9fdd92a295c.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148400-21438500-53f8-11eb-944f-427dd394b60f.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148439-46d08e80-53f8-11eb-8053-2caa92414f53.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148511-8bf4c080-53f8-11eb-8e6e-ee9bc7b1fff1.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148580-d118f280-53f8-11eb-9b8e-f077e649f384.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148743-7e8c0600-53f9-11eb-8b37-5c0314b89e74.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148829-cb6fdc80-53f9-11eb-962c-8fd276cb4d7d.png" alt="octocat" width="70" height="70">
+<img src="https://user-images.githubusercontent.com/75318831/104148871-0c67f100-53fa-11eb-940f-3d8f6ff0d1f5.png" alt="octocat" width="70" height="70">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel-kr" alt="neel-kr" /></a> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/75318831/104149254-8a78c780-53fb-11eb-9377-0428e72fa613.png" alt="neel-kr" /> </p>
+<img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" />
 
-- 😅 I'm currently working on **numpy, GUI using Tkinter, OpenCV, and building programs with various modules**
+<p> <img src="https://user-images.githubusercontent.com/75318831/104149580-b5afe680-53fc-11eb-89e0-df749e756e95.png" alt="busy" width="100" height="100"> I'm currently working on <b>numpy, GUI using Tkinter, OpenCV, and building programs with various modules</b> </p>
 
 - 🌿 I’m currently learning **Python (PyTorch, OpenCV and making programs with interesting modules.)**
 
