@@ -14,16 +14,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" />
 
+<p align="center">
 <ul>
 <li>😅 I'm currently working on <b>numpy, GUI using Tkinter, OpenCV, and building programs with various modules</b></li>
 <br>
 <li>🌿 I’m currently learning <b>Python (PyTorch, OpenCV and making programs with interesting modules.)</b></li>
 <br>
-<li>😉😊 I'm looking to collaborate on [J.A.R.V.I.S](https://github.com/Neel-Kr/J.A.R.V.I.S)</li>
+<li>😉😊 I'm looking to collaborate on [J.A.R.V.I.S]-https://github.com/Neel-Kr/J.A.R.V.I.S</li>
 <br>
-<li>😃😆 It's good to know if someone contribute to my [GitHub repositories](https://github.com/Neel-Kr?tab=repositories)</li>
+<li>😃😆 It's good to know if someone contribute to my https://github.com/Neel-Kr?tab=repositories</li>
 <br>
-<li>👨‍💻 All of my projects are available at [https://github.com/Neel-Kr](https://github.com/Neel-Kr)</li>
+<li>👨‍💻 All of my projects are available at https://github.com/Neel-Kr</li>
 <br>
 <li>😏💬 Ask me about <b>Python</b></li>
 <br>
@@ -31,6 +32,7 @@
 <br>
 <li>⚡ Fun fact <b>I spend my free time contributing open source projects at GitHub.</b></li>
 </ul>
+</p>
 
 <h3 align="left">Programming Languages</h3>
 <table style="width:100%">
