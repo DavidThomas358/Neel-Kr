@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/75318831/104148871-0c67f100-53fa-11eb-940f-3d8f6ff0d1f5.png" alt="octocat" width="70" height="70">
 </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/75318831/104149254-8a78c780-53fb-11eb-9377-0428e72fa613.png" alt="neel-kr" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/75318831/104155370-121b0200-540d-11eb-94a2-94d1b0be7949.png" alt="neel-kr" /> </p>
 <img src="https://komarev.com/ghpvc/?username=neel-kr&label=Profile%20views&color=0e75b6&style=flat" alt="neel-kr" />
 
 - 😅 I'm currently working on **numpy, GUI using Tkinter, OpenCV, and building programs with various modules**
@@ -30,11 +30,75 @@
 - ⚡ Fun fact **I spend my free time contributing open source projects at GitHub.**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a></p>
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel-kr&show_icons=true&locale=en&layout=compact" alt="neel-kr" /></p>
+<h3 align="left">Programming Languages</h3>
+<table style="width:100%">
+  <tr>
+    <th><img src="https://user-images.githubusercontent.com/75318831/104153067-5dcaad00-5407-11eb-9e86-40a83c027d20.png" alt="C" width="30" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153211-c1ed7100-5407-11eb-9103-c2697dc65a4b.png" alt="Cplusplus" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153327-17c21900-5408-11eb-8ebe-8742c726ecfd.png" alt="java" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153371-39230500-5408-11eb-9855-f8bb872d3985.png" alt="javascript" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153513-87380880-5408-11eb-966f-14c8ca959248.png" alt="python" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153470-6bccfd80-5408-11eb-8334-c40d85be334b.png" alt="php" width="30" height="30"> </th>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neel-kr&show_icons=true&locale=en" alt="neel-kr" /></p>
+<h3 align="left">Frontend Development</h3>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153707-07f70480-5409-11eb-8d71-f663ae52b8b6.png" alt="vue.js" width="30" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153727-1513f380-5409-11eb-9a11-37d497602c0b.png" alt="react.js" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153742-21984c00-5409-11eb-9793-a392c4bfd96c.png" alt="html" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153768-35dc4900-5409-11eb-8cfa-d4e29fa40235.png" alt="css" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153794-455b9200-5409-11eb-80cb-c4b87a5cfd7f.png" alt="boostrap" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153873-7a67e480-5409-11eb-8d40-cba7239b6fc0.png" alt="node.js" width="30" height="30"> </th>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel-kr&" alt="neel-kr" /></p>
+<h3 align="left">Artificial Intelligence/ Machine Learning</h3>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153987-bbf88f80-5409-11eb-912f-02a0e9396e51.png" alt="tensorflow" width="30" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154036-db8fb800-5409-11eb-98bd-005e7c91ac3b.png" alt="pytorch" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154059-eea28800-5409-11eb-8abd-86ed88a9ad91.png" alt="opencv" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154090-fd893a80-5409-11eb-9e2d-4ddda39959bc.png" alt="scikit_learn" width="30" height="30"> </th>
+  </tr>
+</table>
+
+<h3 align="left">Devops</h3>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154279-86a07180-540a-11eb-891f-bd5f4802c936.png" alt="aws" width="30" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154299-93bd6080-540a-11eb-8793-39e8231345f8.png" alt="jenkins" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154315-a041b900-540a-11eb-9dfc-d2f8cfbeab19.png" alt="google cloud" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154331-adf73e80-540a-11eb-8a1c-c9c0c134fde8.png" alt="travisci" width="30" height="30"> </th>
+  </tr>
+</table>
+
+<h3 align="left">Backend services and framework</h3>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154505-16deb680-540b-11eb-8100-3d612970f36c.png" alt="firebase" width="30" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154529-24943c00-540b-11eb-92db-bc9c16d460bc.png" alt="django" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154552-3249c180-540b-11eb-9271-a3d644952c4c.png" alt="dotnet" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154567-3fff4700-540b-11eb-80b8-a84c7c68ccb6.png" alt="flask" width="30" height="30"> </th>
+  </tr>
+</table>
+
+<h3 align="left">Editing software and others...</h3>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154703-92406800-540b-11eb-8859-2fe82ebd9198.png" alt="figma" width="30" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154752-b13efa00-540b-11eb-807d-6fa38324a303.png" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104154807-cddb3200-540b-11eb-8bf5-a7223458fae7.png" alt="arduino" width="30" height="30"> </th>
+  </tr>
+</table>
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel-kr&show_icons=true&locale=en&layout=compact" alt="neel-kr" /></p> 
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=neel-kr&show_icons=true&locale=en" alt="neel-kr" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=neel-kr&" alt="neel-kr" /></p>
