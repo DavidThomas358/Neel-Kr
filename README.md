@@ -37,12 +37,12 @@
 <h3 align="left">Programming Languages</h3>
 <table style="width:100%">
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/75318831/104153067-5dcaad00-5407-11eb-9e86-40a83c027d20.png" alt="C" width="30" height="30"></th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153211-c1ed7100-5407-11eb-9103-c2697dc65a4b.png" alt="Cplusplus" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153327-17c21900-5408-11eb-8ebe-8742c726ecfd.png" alt="java" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153371-39230500-5408-11eb-9855-f8bb872d3985.png" alt="javascript" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153513-87380880-5408-11eb-966f-14c8ca959248.png" alt="python" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153470-6bccfd80-5408-11eb-8334-c40d85be334b.png" alt="php" width="30" height="30"> </th>
+    <th><img src="https://user-images.githubusercontent.com/75318831/104153067-5dcaad00-5407-11eb-9e86-40a83c027d20.png" alt="C" width="20" height="20"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153211-c1ed7100-5407-11eb-9103-c2697dc65a4b.png" alt="Cplusplus" width="20" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153327-17c21900-5408-11eb-8ebe-8742c726ecfd.png" alt="java" width="20" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153371-39230500-5408-11eb-9855-f8bb872d3985.png" alt="javascript" width="20" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153513-87380880-5408-11eb-966f-14c8ca959248.png" alt="python" width="20" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153470-6bccfd80-5408-11eb-8334-c40d85be334b.png" alt="php" width="20" height="20"> </th>
   </tr>
 </table>
 
