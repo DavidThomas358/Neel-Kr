@@ -37,24 +37,24 @@
 <h3 align="left">Programming Languages</h3>
 <table style="width:100%">
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/75318831/104153067-5dcaad00-5407-11eb-9e86-40a83c027d20.png" alt="C" width="20" height="20"></th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153211-c1ed7100-5407-11eb-9103-c2697dc65a4b.png" alt="Cplusplus" width="20" height="20"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153327-17c21900-5408-11eb-8ebe-8742c726ecfd.png" alt="java" width="20" height="20"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153371-39230500-5408-11eb-9855-f8bb872d3985.png" alt="javascript" width="20" height="20"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153513-87380880-5408-11eb-966f-14c8ca959248.png" alt="python" width="20" height="20"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153470-6bccfd80-5408-11eb-8334-c40d85be334b.png" alt="php" width="20" height="20"> </th>
+    <th><img src="https://user-images.githubusercontent.com/75318831/104153067-5dcaad00-5407-11eb-9e86-40a83c027d20.png" alt="C" width="30" height="20"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153211-c1ed7100-5407-11eb-9103-c2697dc65a4b.png" alt="Cplusplus" width="30" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153327-17c21900-5408-11eb-8ebe-8742c726ecfd.png" alt="java" width="30" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153371-39230500-5408-11eb-9855-f8bb872d3985.png" alt="javascript" width="30" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153513-87380880-5408-11eb-966f-14c8ca959248.png" alt="python" width="30" height="20"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153470-6bccfd80-5408-11eb-8334-c40d85be334b.png" alt="php" width="30" height="20"> </th>
   </tr>
 </table>
 
 <h3 align="left">Frontend Development</h3>
 <table style="width:100%">
   <tr>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153707-07f70480-5409-11eb-8d71-f663ae52b8b6.png" alt="vue.js" width="30" height="30"></th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153727-1513f380-5409-11eb-9a11-37d497602c0b.png" alt="react.js" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153742-21984c00-5409-11eb-9793-a392c4bfd96c.png" alt="html" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153768-35dc4900-5409-11eb-8cfa-d4e29fa40235.png" alt="css" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153794-455b9200-5409-11eb-80cb-c4b87a5cfd7f.png" alt="boostrap" width="30" height="30"> </th>
-    <th> <img src="https://user-images.githubusercontent.com/75318831/104153873-7a67e480-5409-11eb-8d40-cba7239b6fc0.png" alt="node.js" width="30" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153707-07f70480-5409-11eb-8d71-f663ae52b8b6.png" alt="vue.js" width="40" height="30"></th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153727-1513f380-5409-11eb-9a11-37d497602c0b.png" alt="react.js" width="40" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153742-21984c00-5409-11eb-9793-a392c4bfd96c.png" alt="html" width="40" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153768-35dc4900-5409-11eb-8cfa-d4e29fa40235.png" alt="css" width="40" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153794-455b9200-5409-11eb-80cb-c4b87a5cfd7f.png" alt="boostrap" width="40" height="30"> </th>
+    <th> <img src="https://user-images.githubusercontent.com/75318831/104153873-7a67e480-5409-11eb-8d40-cba7239b6fc0.png" alt="node.js" width="40" height="30"> </th>
   </tr>
 </table>
 
