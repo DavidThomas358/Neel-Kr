@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Neel Kumar </h1>
 <h3 align="center">Passionate about learning and developing new things in the programming world!!!</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/75318831/112126705-b9c16700-8bea-11eb-88d3-de4014223aa7.png" alt="neel kr"></p>
-<p align="centre">
+<p align="center">
   <a href="https://github.com/Neel-Kr/Neel-Kr/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Neel-Kr/Neel-Kr?color=B202FE&style=for-the-badge"></a>
   <a href="https://github.com/Neel-Kr/Neel-Kr/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Neel-Kr/Neel-Kr?color=0AFE02&style=for-the-badge"></a>
   <a href="https://github.com/Neel-Kr/Neel-Kr/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Neel-Kr/Neel-Kr?color=FEF602&style=for-the-badge"></a>
