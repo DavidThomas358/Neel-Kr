@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Neel Kumar </h1>
+<h1 align="center">Hi, I'm Neel Kumar</h1>
 <h3 align="center">Passionate about learning and developing new things in the programming world!!!</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/75318831/112126705-b9c16700-8bea-11eb-88d3-de4014223aa7.png" alt="neel kr"></p>
 <p align="center">
@@ -19,10 +19,12 @@
   <a> <img src="https://img.shields.io/badge/HTML5-FE0202?style=for-the-badge&logo=html5&logoColor=white"> </a>
   <a> <img src="https://img.shields.io/badge/CSS-15FE02?style=for-the-badge&logo=css3&logoColor=white"> </a>
   <a> <img src="https://img.shields.io/badge/Windows-FE02F6?style=for-the-badge&logo=windows&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Pycharm-E7F111?style=for-the-badge&logo=pycharm&logoColor=white"> </a>
+  <a> <img src="https://img.shields.io/badge/Pycharm-E7F111?style=for-the-badge&logo=pycharm&logoColor=black"> </a>
   <a> <img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=powershell&logoColor=white"> </a>
   <a> <img src="https://img.shields.io/badge/Figma-FF00F3?style=for-the-badge&logo=figma&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Visual Studio-08FF00?style=for-the-badge&logo=visualstudio&logoColor=white"> </a>
+  <a> <img src="https://img.shields.io/badge/VS Code-08FF00?style=for-the-badge&logo=visualstudiocode&logoColor=white"> </a>
+  <a> <img src="https://img.shields.io/badge/Jetbrains Tools-000000?style=for-the-badge&logo=jetbrains&logoColor=white"> </a>
+  <a> <img src="https://img.shields.io/badge/C Language-FF0000?style=for-the-badge&logo=c&logoColor=white"> </a>
 </p>
 
 <h3 align="center"> Connect </h3>
@@ -31,6 +33,7 @@
   <a herf="neel90009@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </p>
 
+<h3 align="center">Github Stats</h3>
 <p align="center"> 
   <a>
     <img alt="Neel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Neel-Kr&show_icons=true&theme=chartreuse-dark">
