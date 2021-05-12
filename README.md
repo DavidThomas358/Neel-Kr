@@ -15,14 +15,11 @@
 
 <h3 align="center"> Technical Skills </h3>
 <p align="center">
-  <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
-  <a> <img src="https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png" width="41" height="41"> </a>
-  <a> <img src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="38" height="38"> </a>
+  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="41" height="41"> </a>
+  <a> <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" width="45" height="45"> </a>
+  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="37" height="37"> </a>
+  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="35" height="35"> </a>
 </p>
 
 <h3 align="center"> Connect </h3>
