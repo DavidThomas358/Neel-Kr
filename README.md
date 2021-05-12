@@ -30,7 +30,7 @@
 <h3 align="center"> Connect </h3>
 <p align="center">
   <a herf="https://github.com/Neel-Kr"> <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"> </a>
-  <a herf="neel90009@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a herf="mailto: neel90009@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </p>
 
 <h3 align="center">Github Stats</h3>
