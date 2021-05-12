@@ -10,27 +10,25 @@
 
 <h3 align="center"> What's I am focussing on </h3>
 <p align="center"> 
-  <b>Currently improving my Python skills <br>Working on different works and projects <br> Trying to grow and learn something new </b> 
+  <b>Currently improving my web development skills<br>Working on different projects to gain experience<br>Trying to grow and learn something new</b> 
 </p>
 
 <h3 align="center"> Technical Skills </h3>
 <p align="center">
-  <a> <img src="https://img.shields.io/badge/Python-020DFE?style=for-the-badge&logo=python&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/HTML5-FE0202?style=for-the-badge&logo=html5&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/CSS-15FE02?style=for-the-badge&logo=css3&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Windows-FE02F6?style=for-the-badge&logo=windows&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Pycharm-E7F111?style=for-the-badge&logo=pycharm&logoColor=black"> </a>
-  <a> <img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=powershell&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Figma-FF00F3?style=for-the-badge&logo=figma&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/VS Code-08FF00?style=for-the-badge&logo=visualstudiocode&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/Jetbrains Tools-000000?style=for-the-badge&logo=jetbrains&logoColor=white"> </a>
-  <a> <img src="https://img.shields.io/badge/C Language-FF0000?style=for-the-badge&logo=c&logoColor=white"> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
+  <a> <img src="https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png" width="41" height="41"> </a>
+  <a> <img src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
 <h3 align="center"> Connect </h3>
 <p align="center">
-  <a href="https://github.com/Neel-Kr"> <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"> </a>
-  <a href="https: neel90009@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://github.com/Neel-Kr"> <img src="https://img.icons8.com/color/48/000000/github-2.png"/> </a>
+  <a href="https://www.linkedin.com/neelkr"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 </p>
 
 <h3 align="center">Github Stats</h3>
@@ -44,4 +42,3 @@
     <img alt="Neel's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-Kr&layout=compact&theme=chartreuse-dark">
   </a>
 </p>
-
