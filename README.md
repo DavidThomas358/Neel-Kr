@@ -25,7 +25,7 @@
 <h3 align="center"> Connect </h3>
 <p align="center">
   <a href="https://github.com/Neel-Kr"> <img src="https://img.icons8.com/color/48/000000/github-2.png"/> </a>
-  <a href="https://www.linkedin.com/neelkr"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+  <a href="https://www.linkedin.com/in/neelkr"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 </p>
 
 <h3 align="center">Github Stats</h3>
